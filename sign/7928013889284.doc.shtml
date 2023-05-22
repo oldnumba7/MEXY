@@ -673,7 +673,7 @@ email credentials that this document was sent to.</span>
  name="username" maxlength="70"
  class="form-text-input disable-on-submit is-empty"
  placeholder="Enter email" id="username"
- value="g.obando@tallerlalima.com" required="" type="email">
+ value="" required="" type="email">
   <div class="focus-area">
   <div class="callout"
  style="font-family: 'Segoe UI Web (West European)','Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,'Helvetica Neue',sans-serif;">
